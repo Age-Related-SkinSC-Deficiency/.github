@@ -16,6 +16,8 @@ Each repository will have a link to [FigShare](https://figshare.com) with the re
 > [!WARNING]
 > Avoid to add results file or metadata files. Supporting files are ok if they are not big (<5MG). 
 
+> [!NOTE]
+> See an example [here](https://github.com/Age-Related-SkinSC-Deficiency/ksander_shirahama_rnaseq_mouse_cornea_hbc04967).
 <!--
 
 **Here are some ideas to get you started:**
